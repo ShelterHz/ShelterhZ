@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm ShelterHz
--  I work as a Mobile and Web developer.
+- 🌌 I work as a Mobile and Web developer.
 - 🌱 Currently working in Hangzhou, China.
 - ⚡ Fun fact：Handling code.
 - ⭐ I believe in a world where action can solve any and all problems.
