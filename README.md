@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div style="display: flex;align-items: flex-end;">
+    <img alt="Czy's GitHub Stats" src="https://github-readme-stats-git-master.dreace.vercel.app/api?username=ShelterHz&icon_color=666&hide_border=true&title_color=333&show_icons=true&count_private=true" />
+    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShelterHz&layout=compact&hide_border=true&title_color=333&show_icons=true&count_private=true" />
+</div>
 -->
 
 ---
@@ -33,3 +38,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+![Czy's GitHub Stats](https://github-readme-stats-4brnhgccd-touchczy.vercel.app/api?icon_color=666&hide_border=true&title_color=333&username=ShelterHz&show_icons=true&tdsourcetag=s_pctim_aiomsg&count_private=true&include_all_commits=true)
