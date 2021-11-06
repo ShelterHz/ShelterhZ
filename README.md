@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm ShelterHz
--  A developer.
+-  I work as a Mobile and Web developer.
 - 🌱 Currently working in Hangzhou, China.
-- ⚡ Fun fact.
-- ⭐ While there is life there is hope.
+- ⚡ Fun fact：Handling code.
+- ⭐ I believe in a world where action can solve any and all problems.
 
 ### 🛠 技术栈 | Tech Stack
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
