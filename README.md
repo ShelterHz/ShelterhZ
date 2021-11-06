@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 ### I'm ShelterHz
 - A developer.
 - 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
 - ⚡ Fun fact.
 -While there is life there is hope.
 
 ### 🛠 技术栈 | Tech Stack
-![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -35,4 +33,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=ShelterHz)](https://github.com/anuraghazra/github-readme-stats)
