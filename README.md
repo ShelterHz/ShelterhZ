@@ -18,6 +18,14 @@ Here are some ideas to get you started:
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
+### I'm Siwei Zhou
+
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 🌱 Currently working in Hangzhou, China.
+- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
+- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- ⚡ Fun fact: Data Analysis📊
+
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -34,15 +42,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-##### GitHub Stats
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=wangrongding&theme=github) -->
-
-<div align="center">
-    <a href="https://github.com/littleTreeme">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=littleTreeme&show_icons=truee&include_all_commits=true&theme=onedark&hide=prs" alt="tree's github stats"/>
-    </a>
-    <a href="https://github.com/littleTreeme">
-        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littleTreeme&layout=compact&show_icons=truee&include_all_commits=true&theme=onedark&card_width=230" alt="tree's github stats"/>
-    </a>
-</div>
